@@ -45,4 +45,4 @@ Visit: http://127.0.0.1:5000
 📱 Convert to mobile app using React Native or Flutter
 # *🤝 Contributions*
 Feel free to fork and improve! PRs are welcome☺️.
-Results are displayed in a structured, clean U.
+Results are displayed in a structured, clean UI.
