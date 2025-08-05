@@ -1,16 +1,16 @@
 # Chef-AI-Your-Smart-Food-Fitness-Recommender-Project
  Suggests what to eat, where to eat, and how to stay fit using AI
  # *Chef AI : Personalized Diet, Restaurant & Workout Recommendations Using AI*
-*🔍 Overview*
+*🔍 Overview:*
 Chef AI is a smart AI-powered web application that provides personalized diet plans, restaurant suggestions, and custom workout routines based on user input such as age, gender, height, weight, fitness goals, diseases, and allergies.
 This project leverages Meta’s LLaMA 3.3 model to generate intelligent suggestions for better health and lifestyle.
 # *💡 Features*
-✅ AI-generated meal plans (breakfast, lunch, dinner)
-✅ Region-based restaurant suggestions
-✅ Allergy and disease-aware food recommendations
-✅ Custom workouts based on activity level
-✅ Interactive, easy-to-use UI
-✅ Fast backend with Flask
+1. AI-generated meal plans (breakfast, lunch, dinner)
+2. Region-based restaurant suggestions
+3.  Allergy and disease-aware food recommendations
+4.  Custom workouts based on activity level
+5. Interactive, easy-to-use UI
+6. Fast backend with Flask
 # *🧠 Technologies Used*
 Tools
 Python (Flask)	-Backend web framework
@@ -18,12 +18,12 @@ HTML5, CSS3-	Frontend structure and styling
 LLaMA 3.3 (Meta)-	AI model for generating personalized suggestions
 Bootstrap	-Responsive design
 # *🛠️ How It Works*
-User enters personal details (age, gender, weight, diseases, region, etc.)
-The backend (Flask) sends input to the LLaMA 3.3 model.
-AI model processes the data and generates:
-🏋️ Workouts
-🍲 Meal suggestions
-🍴 Restaurant names (region-specific)
+1.User enters personal details (age, gender, weight, diseases, region, etc.)
+2.The backend (Flask) sends input to the LLaMA 3.3 model.
+3.AI model processes the data and generates:
+🏋️ Workouts,
+🍲 Meal suggestions,
+🍴 Restaurant names (region-specific), and
 Results are displayed in a structured, clean UI.
 # *🚀 How to Run Locally*
 # 1. Clone the repo
@@ -44,7 +44,5 @@ Visit: http://127.0.0.1:5000
 📊 Integrate with fitness bands
 📱 Convert to mobile app using React Native or Flutter
 # *🤝 Contributions*
-Feel free to fork and improve! PRs are welcome.
-🍴 Restaurant names (region-specific)
-
-Results are displayed in a structured, clean UI.
+Feel free to fork and improve! PRs are welcome☺️.
+Results are displayed in a structured, clean U.
