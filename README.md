@@ -1,7 +1,7 @@
 # Chef-AI-Your-Smart-Food-Fitness-Recommender-Project
  Suggests what to eat, where to eat, and how to stay fit using AI
  # *Chef AI : Personalized Diet, Restaurant & Workout Recommendations Using AI*
-🔍 Overview
+*🔍 Overview*
 Chef AI is a smart AI-powered web application that provides personalized diet plans, restaurant suggestions, and custom workout routines based on user input such as age, gender, height, weight, fitness goals, diseases, and allergies.
 This project leverages Meta’s LLaMA 3.3 model to generate intelligent suggestions for better health and lifestyle.
 # *💡 Features*
