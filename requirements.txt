@@ -1,3 +1,5 @@
 flask
 gunicorn
+langchain
+langchain_groq
 google-generativeai
