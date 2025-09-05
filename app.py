@@ -8,7 +8,7 @@ import re
 app = Flask(__name__)
 
 llm_resto = ChatGroq(
-    api_key = "Enter_Your_GrokAPI Key",
+    api_key = os.environ.get("GROQ_API_KEY"),
     model = "llama-3.3-70b-versatile",
     temperature=0.0
 )
@@ -112,4 +112,4 @@ def recommend():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
