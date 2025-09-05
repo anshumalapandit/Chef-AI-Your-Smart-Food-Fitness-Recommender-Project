@@ -1,5 +1,7 @@
 # Chef-AI-Your-Smart-Food-Fitness-Recommender-Project
  Suggests what to eat, where to eat, and how to stay fit using AI
+ # Demo : 
+ -> https://chef-ai-your-smart-food-fitness.onrender.com/
  # *Chef AI : Personalized Diet, Restaurant & Workout Recommendations Using AI*
 *🔍 Overview:*
 Chef AI is a smart AI-powered web application that provides personalized diet plans, restaurant suggestions, and custom workout routines based on user input such as age, gender, height, weight, fitness goals, diseases, and allergies.
